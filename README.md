@@ -6,10 +6,9 @@ Your mind is programmable - and if you're not programming it then someone else w
 
 ### Personal
 
- - World Wide Web: <a href="https://rojenz.de">rojenz.de</a> 
+ - World Wide Web: <a href="https://rojen.uk">rojenz.de</a> 
  - Github: <a href="https://github.com/rojenzaman">@rojenzaman</a> | <a href="https://gist.github.com/rojenzaman">gist</a>
  - Soundcloud: <a href="https://soundcloud.com/computerdream">@computerdream</a>
- - Twitter: <a href="https://twitter.com/rojen36fe6ed7d7">@rojen36fe6ed7d7</a>
  - Pixelfed: <a href="https://pixelfed.social/rojen">@rojen</a>
  - Gitlab: <a href="https://gitlab.com/rojenzaman">@rojenzaman</a>
  - Mastodon: <a href="https://kolektiva.social/@rojen">kolektiva.social/@rojen</a>
