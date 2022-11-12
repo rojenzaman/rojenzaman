@@ -2,11 +2,11 @@
 $ mail
 Your mind is programmable - and if you're not programming it then someone else will program it for you.
 ```
-<p>rojen{at} riseup{dot}net <span class="gray"></span> | <a href="https://rojenz.de/key/gnupg.html">GnuPG</a> Public Key <span class="gray">0x9089BB25</span></p>
+<p>rojen{at} riseup{dot}net <span class="gray"></span> | <a href="https://rojen.uk/key/gnupg.html">GnuPG</a> Public Key <span class="gray">0x9089BB25</span></p>
 
 ### Personal
 
- - World Wide Web: <a href="https://rojen.uk">rojenz.de</a> 
+ - World Wide Web: <a href="https://rojen.uk">rojen.uk</a> 
  - Github: <a href="https://github.com/rojenzaman">@rojenzaman</a> | <a href="https://gist.github.com/rojenzaman">gist</a>
  - Soundcloud: <a href="https://soundcloud.com/computerdream">@computerdream</a>
  - Pixelfed: <a href="https://pixelfed.social/rojen">@rojen</a>
