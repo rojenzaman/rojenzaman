@@ -1,8 +1,11 @@
 ```
 $ mail
-Your mind is programmable - and if you're not programming it then someone else will program it for you.
+Get off the internet, the street is a root shell.
+ — cybrigade
 ```
-<p>rojen{at} riseup{dot}net <span class="gray"></span> | <a href="https://rojen.uk/key/gnupg.html">GnuPG</a> Public Key <span class="gray">0x9089BB25</span></p>
+rojen {nice at} riseup {dot} net | <a href="https://rojen.uk/key/gnupg.html">GnuPG Public Key</a> **0x9089BB25**
+
+XMPP/OMEMO: rz@5222.de
 
 ### Personal
 
@@ -11,4 +14,5 @@ Your mind is programmable - and if you're not programming it then someone else w
  - Soundcloud: <a href="https://soundcloud.com/computerdream">@computerdream</a>
  - Pixelfed: <a href="https://pixelfed.social/rojen">@rojen</a>
  - Gitlab: <a href="https://gitlab.com/rojenzaman">@rojenzaman</a>
- - Mastodon: <a href="https://kolektiva.social/@rojen">kolektiva.social/@rojen</a>
+ - Mastodon: <a href="https://a.nti.social/rojen">a.nti.social/rojen</a>
+ 
