@@ -7,6 +7,8 @@ rojen {nice at} riseup {dot} net | <a href="https://rojen.uk/key/gnupg.html">Gnu
 
 XMPP/OMEMO: rz@5222.de
 
+\[matrix\]: **@rojen:riot.anarchyplanet.org**
+
 ### Personal
 
  - World Wide Web: <a href="https://rojen.uk">rojen.uk</a> 
